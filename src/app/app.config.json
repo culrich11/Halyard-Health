@@ -1,0 +1,15 @@
+{
+	"appname": "Halyard Health",
+	"scope": "AddressReader OrderReader PriceScheduleReader ProductReader UnsubmittedOrderReader FullAccess",
+	"clientid": "D9657942-0288-4092-BB67-9AC0EFEFFBE3",
+	"buyerid": "bABOuY3RrkOeqIM0NEL6HA",
+	"catalogid": "bABOuY3RrkOeqIM0NEL6HA",
+	"environment": "production",
+	"anonymous": false,
+	"base": {
+		"left": true,
+		"right": false,
+		"top": true,
+		"bottom": false
+	}
+}
